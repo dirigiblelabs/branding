@@ -5,7 +5,7 @@
 
 # Overview
 
-Branding Services for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
+Branding Service for the [Eclipse Dirigible](https://github.com/eclipse/dirigible) WebIDE v3.x and above.
 
 Build the [Eclipse Dirigible](https://github.com/eclipse/dirigible), deploy on e.g. Tomcat Web Container and go to location:
 
