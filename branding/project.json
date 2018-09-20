@@ -1,1 +1,8 @@
-{"guid":"branding","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/branding.git"}}
+{
+	"guid": "branding",
+	"repository": {
+		"type": "git",
+		"branch": "master",
+		"url": "https://github.com/dirigiblelabs/branding.git"
+	}
+}
