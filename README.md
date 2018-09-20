@@ -1,4 +1,4 @@
-# Branding Services for Eclipse Dirigible WebIDE
+# Branding Service for Eclipse Dirigible WebIDE
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/branding.svg)](https://github.com/dirigiblelabs/branding/graphs/contributors)
